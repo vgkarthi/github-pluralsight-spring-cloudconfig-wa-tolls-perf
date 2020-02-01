@@ -1,2 +1,2 @@
-name=application.yaml
-env=default
+name=application-dev.yaml
+env=dev
